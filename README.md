@@ -1,4 +1,4 @@
-# Pricing UI ((Live)[https://nextjs-tailwind-pricing-ui.vercel.app/])
+# Pricing UI ([Live](https://nextjs-tailwind-pricing-ui.vercel.app/))
 
 A simple pricing UI component built with React, Shadcn-ui and Tailwind CSS.
 
